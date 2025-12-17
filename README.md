@@ -23,7 +23,7 @@
 
 ## 💼 Technical Skills
 <p align="left">
-  ## 💻 Tech Stack
+ 
 
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -83,17 +83,6 @@
 
 </p>
 
----
-
-## 🌐 Featured Projects
-- 🚀 *[VaxTracker](https://github.com/diptishde/vaxtracker)* - A vaccination tracking system with timely notifications and community support.
-
----
-
-## ✨ Fun Facts
-- ✍ *Shayari Enthusiast* - I find beauty in words and enjoy crafting poetic verses that resonate deeply with Hindi literature lovers.
-
----
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
